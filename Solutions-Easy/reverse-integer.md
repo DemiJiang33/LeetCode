@@ -42,8 +42,6 @@ var reverse = function(x) {
     if (result < (Math.pow(-2,31)) || result > (Math.pow(2,31)-1)){
         result = 0;
     }
-
     return result;
-
 };
 ```
