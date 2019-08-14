@@ -15,11 +15,7 @@ D             500
 M             1000
 ```
 
-For example, two is written as II in Roman numeral, just two one's added together. 
-
-Twelve is written as, XII, which is simply X + II. 
-
-The number twenty seven is written as XXVII, which is XX + V + II.
+For example, two is written as II in Roman numeral, just two one's added together. Twelve is written as, XII, which is simply X + II. The number twenty seven is written as XXVII, which is XX + V + II.
 
 Roman numerals are usually written largest to smallest from left to right.
 
