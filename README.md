@@ -10,5 +10,6 @@ LeetCode - JavaScript
 - [9. Palindrome Number](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/palindrome-number.md)
 - [13. Roman to Integer](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/roman-to-integer.md)
 - [14. Longest Common Prefix](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/longest-common-prefix.md)
+- [20. Valid Parentheses](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/valid-parentheses.md)
 
 ### Medium
