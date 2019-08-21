@@ -10,18 +10,18 @@ Do not allocate extra space for another array, you must do this by **modifying t
 <pre>
 Given nums = <b>[1,1,2]</b>,
 
-Your function should return length = <b>2</b>, with the first two elements of nums being **1** and **2** respectively.
+Your function should return length = <b>2</b>, with the first two elements of nums being <b>1</b> and <b>2</b> respectively.
 
 It doesn't matter what you leave beyond the returned length.
 </pre>
 
-```shell
-Given nums = **[0,0,1,1,1,2,2,3,3,4]**,
+<pre>
+Given nums = <b>[0,0,1,1,1,2,2,3,3,4]</b>,
 
-Your function should return length = **5**, with the first five elements of nums being modified to **0**, **1**, **2**, **3**, and **4** respectively.
+Your function should return length = <b>5</b>, with the first five elements of nums being modified to <b>0</b>, <b>1</b>, <b>2</b>, <b>3</b>, and <b>4</b> respectively.
 
 It doesn't matter what values are set beyond the returned length.
-```
+</pre>
 
 #### Clarification:
 
