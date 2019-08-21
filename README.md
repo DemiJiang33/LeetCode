@@ -11,5 +11,6 @@ LeetCode - JavaScript
 - [13. Roman to Integer](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/roman-to-integer.md)
 - [14. Longest Common Prefix](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/longest-common-prefix.md)
 - [20. Valid Parentheses](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/valid-parentheses.md)
+- [21. Merge Two Sorted Lists](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/merge-two-sorted-lists.md)
 
 ### Medium
