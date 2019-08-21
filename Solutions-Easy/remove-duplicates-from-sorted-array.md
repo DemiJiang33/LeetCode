@@ -15,7 +15,7 @@ Your function should return length = <b>2</b>, with the first two elements of nu
 
 It doesn't matter what you leave beyond the returned length.
 </code>
-```shell
+```
 
 ```shell
 Given nums = **[0,0,1,1,1,2,2,3,3,4]**,
