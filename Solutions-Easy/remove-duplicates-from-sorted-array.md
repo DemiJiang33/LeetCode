@@ -8,7 +8,7 @@ Do not allocate extra space for another array, you must do this by **modifying t
 
 #### Example:
 ```shell
-Given nums = <b>[1,1,2]</b>,
+Given nums = `**`[1,1,2]`**`,
 
 Your function should return length = **2**, with the first two elements of nums being **1** and **2** respectively.
 
