@@ -14,6 +14,7 @@ LeetCode - JavaScript
 - [21. Merge Two Sorted Lists](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/merge-two-sorted-lists.md)
 - [26. Remove Duplicates from Sorted Array](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/remove-duplicates-from-sorted-array.md)
 - [27. Remove Element](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/remove-element.md)
+- [28. Implement strStr()](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/implement-strStr().md)
 
 
 ### Medium
