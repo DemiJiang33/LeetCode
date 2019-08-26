@@ -35,3 +35,24 @@ var twoSum = function(nums, target) {
     //return sums;
 };
 ```
+
+```javascript
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum = function(nums, target) {
+    var results = []
+    var hashTable = {}
+    for(var i = 0 ; i< nums.length; i++){
+        var sumMinus = target - nums[i];
+        if(hashTable[sumMinus] !== undefined){
+            results.push(hashTable[sumMinus], i);
+        }
+        hashTable[nums[i]] = i;
+    }
+    //console.log(hashTable);
+    return results;
+};
+```
