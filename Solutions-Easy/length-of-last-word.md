@@ -22,7 +22,7 @@ A word is defined as a character sequence consists of non-space characters only.
  * @return {number}
  */
 var lengthOfLastWord = function(s) {
-    s = s.trim();
+    s = s.trim(); //Remove whitespace from both sides of a string
     if(s){
         var array = s.split(' ')
         var lastIndex = array.length-1;
