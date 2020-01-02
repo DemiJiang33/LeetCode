@@ -19,6 +19,7 @@ LeetCode - JavaScript
 - [53. Maximum Subarray](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/maximum-subarray.md)
 - [58. Length of Last Word](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/length-of-last-word.md)
 - [66. Plus One](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/plus-one.md)
+- [67. Add Binary](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/add-binary.md)
 
 - []()
 
