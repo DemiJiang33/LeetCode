@@ -27,6 +27,8 @@ Explanation: The square root of 8 is 2.82842..., and since
  * @param {number} x
  * @return {number}
  */
+//Binary search
+
 var mySqrt = function(x) {
     var left = 1;
     var right = x;
