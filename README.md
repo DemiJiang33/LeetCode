@@ -20,6 +20,7 @@ LeetCode - JavaScript
 - [58. Length of Last Word](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/length-of-last-word.md)
 - [66. Plus One](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/plus-one.md)
 - [67. Add Binary](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/add-binary.md)
+- [69. Sqrt(x)](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/Sqrt(x).md)
 
 - []()
 
