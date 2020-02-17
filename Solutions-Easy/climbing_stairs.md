@@ -48,7 +48,7 @@ var climbStairs = function(n) {
  * @param {number} n
  * @return {number}
  */
-
+//Memorized Recursive Version
 var W = [0, 1, 2];
 
 var climbStairs = function(n) {
