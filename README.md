@@ -21,6 +21,7 @@ LeetCode - JavaScript
 - [66. Plus One](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/plus-one.md)
 - [67. Add Binary](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/add-binary.md)
 - [69. Sqrt(x)](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/Sqrt(x).md)
+- [70. Climbing Stairs](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/climbing_stairs).md)
 
 - []()
 
