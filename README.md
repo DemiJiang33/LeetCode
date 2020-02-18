@@ -16,6 +16,7 @@ LeetCode - JavaScript
 - [27. Remove Element](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/remove-element.md)
 - [28. Implement strStr()](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/implement-strStr().md)
 - [35. Search Insert Position](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/search-insert-position.md)
+- [38. Count and Say](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/count_and_say.md)
 - [53. Maximum Subarray](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/maximum-subarray.md)
 - [58. Length of Last Word](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/length-of-last-word.md)
 - [66. Plus One](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/plus-one.md)
