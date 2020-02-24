@@ -24,6 +24,7 @@ LeetCode - JavaScript
 - [69. Sqrt(x)](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/Sqrt(x).md)
 - [70. Climbing Stairs](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/climbing_stairs.md)
 - [83. Remove Duplicates from Sorted List](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/remove-duplicates-from-sorted-list.md)
+- [88. Merge Sorted Array](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/merge-sorted-array.md)
 
 - []()
 
