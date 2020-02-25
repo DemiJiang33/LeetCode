@@ -39,6 +39,6 @@ var merge = function(nums1, m, nums2, n) {
         }
         lastIndex--;
     }
-    return nums1;
+    //return nums1;
 };
 ```
