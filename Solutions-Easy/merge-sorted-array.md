@@ -29,7 +29,7 @@ var merge = function(nums1, m, nums2, n) {
     var lastIndex = m+n-1;
     m--;
     n--;
-    while(n>=0){
+    while(n>=0){ //don't need to loop through the entire array. Just need to keep going until n >= 0.
         if(nums1[m]>=nums2[n]){
             nums1[lastIndex] = nums1[m]
             m--;
