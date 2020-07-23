@@ -27,6 +27,7 @@ LeetCode - JavaScript
 - [88. Merge Sorted Array](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/merge-sorted-array.md)
 - [100. Same Tree](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/same-tree.md)
 - [101. Symmetric Tree](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/symmetric-tree.md)
+- [104. Maximum Depth of Binary Tree](https://github.com/czsyjss/LeetCode/blob/master/Solutions-Easy/maximum-depth-of-binary-tree.md)
 
 - []()
 
