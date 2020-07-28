@@ -37,6 +37,25 @@ return its bottom-up level order traversal as:
  * @param {TreeNode} root
  * @return {number[][]}
  */
- 
- 
+var levelOrderBottom = function(root) {
+    if(!root) return [];
+    var output = [];
+    dfs(root, 0, output)
+    return output.reverse();
+};
+
+var dfs = function (node, level, output){
+    if(!node) return 
+    if(!output[level]) output[level] =[]
+    output[level].push(node.val);
+    
+    // if(!output[level]){
+    //     output[level] = [node.val]
+    // }else{
+    //     output[level].push(node.val);
+    // }
+    
+    dfs(node.left, level+1, output);
+    dfs(node.right, level+1, output);
+}
 ```
